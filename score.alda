@@ -1,0 +1,21 @@
+(tempo! 116)
+
+piano  "piano-1":
+  # F major
+  (f) o6 {g b d g e g} {d g > b < d > g b}
+
+piano  "piano-2":
+  # F major
+  (f) o3 g8 g8 g8 r8
+
+piano  "piano-3":
+  # F major
+  (f) o3 b8 > c8 < b8 r8
+
+piano  "piano-4":
+  # F major
+  (f) o4 d8 e8 d8 r8
+
+piano  "piano-5":
+  # F major
+  (f) o4 g8 g8 g8 r8
