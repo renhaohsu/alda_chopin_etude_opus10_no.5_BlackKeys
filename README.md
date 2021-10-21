@@ -2,4 +2,4 @@
 
 ## Score: Chopin etude opus#10 no.5 BlackKeys
 
-`using <a src="https://alda.io/"> https://alda.io/ <a>`
+_using_ <a src="https://alda.io/"> https://alda.io/ <a>
